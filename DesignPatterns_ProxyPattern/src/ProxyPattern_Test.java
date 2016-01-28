@@ -14,5 +14,6 @@ public class ProxyPattern_Test {
         myProxy.updateAccBalance(100, 100);
         System.out.println("New Balance : " + myProxy.getAccBalance(100));
         System.out.println();
+        
 	}	
 }
